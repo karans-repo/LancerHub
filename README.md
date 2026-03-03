@@ -1,6 +1,6 @@
 # LancerHub: Freelance Project Workspace
 
-**LancerHub** is a full-stack MERN web application designed to streamline project management and collaboration between freelancers and clients. Unlike basic job boards, this platform focuses on the active project lifecycle—from proposal bidding to real-time communication and deliverable management.
+**LancerHub** is a full-stack MERN web application designed to streamline project management and collaboration between freelancers and clients. Unlike basic job boards, this platform focuses on the active project lifecycle from proposal bidding to real-time communication and deliverable management.
 
 ## 🚀 Key Features
 
